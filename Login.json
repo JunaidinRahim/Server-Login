@@ -1,12 +1,12 @@
 [
   {
-    "user": "username1",
-    "pass": "password1",
+    "user": "junet2014",
+    "pass": "junet2014",
     "vip": true
   },
   {
-    "user": "username2",
-    "pass": "password2",
+    "user": "junet2015",
+    "pass": "junet2015",
     "vip": false
   }
 ]
